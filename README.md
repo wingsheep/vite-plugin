@@ -105,5 +105,6 @@ function saveChangesToAPI(translations) {
 - 保存功能依赖后端接口，请根据实际需求配置接口地址。
 
 
+#### DEMO
 
 ![](./PixPin_2025-01-21_19-27-11.gif)
