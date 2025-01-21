@@ -88,6 +88,8 @@ export default function i18nHighlighterPlugin() {
                 });
                 const message = document.getElementById('i18n-highlight-message');
                 message.style.display = 'none';
+                const overlay = document.getElementById('i18n-overlay');
+                document.body.removeChild(overlay);
             }
 
             // 处理高亮元素的点击事件
